@@ -40,9 +40,9 @@ Nos especializamos en:
 
 ## ✍️ Artículos recientes
 
-- [La IA en la transformación empresarial](./_posts/2025-07-12-ia-transformacion.md)
-- [Automatización e impacto en procesos de negocio](./_posts/2025-07-10-automatizacion-negocio.md)
-- [Principales aprendizajes de la presentación en Ecuador](./_posts/2025-07-09-ecuador-presentacion.md)
+- [Caso de uso: Cómo usamos IA para generar consultas SQL desde lenguaje natural]([./_posts/2025-07-12-ia-transformacion.md](https://www.hiberus.com/crecemos-contigo/caso-de-uso-como-usamos-ia-para-generar-consultas-sql-desde-lenguaje-natural/))
+- [Automatización e impacto en procesos de negocio]([./_posts/2025-07-10-automatizacion-negocio.md](https://www.hiberus.com/crecemos-contigo/caso-de-uso-moderacion-de-contenido-con-ia-para-retail-y-plataformas-sociales/))
+- [Caso de uso: Control inteligente de stock en neveras con IA]([./_posts/2025-07-09-ecuador-presentacion.md](https://www.hiberus.com/crecemos-contigo/caso-de-uso-control-inteligente-de-stock-en-neveras-con-ia/))
 
 ---
 
