@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Keynote Hiberus en Ecuador
+title: Presentación "Educación en tiempos de IA, ¿Cómo prepararnos para lo que ya llegó?" UDLA 2025
 ---
 
-# 🌍 Hiberus: Keynote y Mesa Redonda en Ecuador
+# 🌍 Hiberus: Keynote "Educación en tiempos de IA, ¿Cómo prepararnos para lo que ya llegó?" 
 
 ¡Bienvenidos! Esta página contiene la presentación pública y algunos contenidos clave sobre cómo Hiberus impulsa la innovación tecnológica y la transformación digital.
 
