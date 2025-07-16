@@ -11,16 +11,9 @@ title: Presentación "Educación en tiempos de IA, ¿Cómo prepararnos para lo q
 
 ## 🎤 Presentación
 
-📥 [Descargar la presentación en PowerPoint](AI Hiberus UDLA keynote Ecuador v2 2025.pdf)
+📥 [Descargar la presentación en PDF](AI Hiberus UDLA keynote Ecuador v2 2025.pdf)
 
-📺 O bien, puedes visualizarla directamente aquí:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vXXXXXXX/embed?start=false&loop=false"
-        frameborder="0"
-        width="960"
-        height="569"
-        allowfullscreen>
-</iframe>
 
 ---
 
